@@ -35,7 +35,7 @@ git clone https://github.com/dem205/country-explorer-app.git
 Open the project folder:
 
 cd country-explorer
-
+```
 
 Launch in your browser:
 Open index.html in your preferred web browser.
@@ -70,6 +70,6 @@ country-explorer/
 This project is open-source and available for educational use.
 
 👨‍💻 Author
-Ademilade Ogundele
+Ademilade Ogundele ❤
 Frontend Web Developer | Aspiring Software Engineer
 📧 ogundeleademilade@gmail.com
