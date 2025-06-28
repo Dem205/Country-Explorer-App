@@ -84,6 +84,8 @@ prevBtn.addEventListener("click", () => {
   if (currentPage > 1) {
     currentPage--;
     renderCountries(filteredCountries);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+
   }
 });
 
@@ -92,6 +94,8 @@ nextBtn.addEventListener("click", () => {
   if (currentPage < totalPages) {
     currentPage++;
     renderCountries(filteredCountries);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+
   }
 });
 
