@@ -44,7 +44,7 @@ Open index.html in your preferred web browser.
 
 | Desktop View                                     | Mobile View                                    |
 | ------------------------------------------------ | ---------------------------------------------- |
-| ![Desktop Screenshot](./image.png) | ![Mobile Screenshot](./screenshots/mobile.png) |
+| ![Desktop Screenshot](./image.png) | ![Mobile Screenshot](./Screenshot_20250628_121512_Chrome.jpg) |
 
 
 ##🛠️ Folder Structure
