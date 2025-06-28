@@ -47,14 +47,15 @@ Open index.html in your preferred web browser.
 | ![Desktop Screenshot](./image.png) | ![Mobile Screenshot](./Screenshot_20250628_121512_Chrome.jpg) |
 
 
-##🛠️ Folder Structure
+<h2>🛠️ Folder Structure</h2>
 
-country-explorer/
-├── index.html
-├── styles.css
-├── script.js
-├── README.md
-└── /screenshots
+country-explorer/ </br>
+├── index.html </br>
+├── styles.css </br>
+├── script.js </br>
+├── README.md </br>
+└── /screenshots </br>
+
 
 
 📌 TODO (Optional Enhancements)
@@ -66,10 +67,10 @@ country-explorer/
 
  Country detail modal or page
 
-📄 License
+📄 License </br>
 This project is open-source and available for educational use.
 
-👨‍💻 Author
-Ademilade Ogundele ❤
-Frontend Web Developer | Aspiring Software Engineer
+👨‍💻 Author </br>
+Ademilade Ogundele ❤ </br>
+Frontend Web Developer | Aspiring Software Engineer </br>
 📧 ogundeleademilade@gmail.com
